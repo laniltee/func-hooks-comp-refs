@@ -6,7 +6,7 @@ function App() {
   return (
       <div className="App">
         <>
-          <Accordion header="Accordion 1">
+          <Accordion header={"Accordion 1"}>
             <div>Content for Accordion 1</div>
           </Accordion>
           <Accordion header="Accordion 2">
